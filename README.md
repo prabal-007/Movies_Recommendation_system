@@ -1,7 +1,8 @@
 # Movies_Recommendation_system
 Movies Recommendation system.
 
-This Recommendation systems is based on content based filtering, i.e. This technique attempts to figure out what a user's favourite aspects of an item is, and then 
+Subject - This Recommendation systems is based on content based filtering.
+This technique attempts to figure out what a user's favourite aspects of an item is, and then 
 recommends items that present those aspects. In this case, we're going to try to figure out the input's favorite genres from the movies and ratings given. 
 
 #Dataset - Dataset is acquired from GroupLens.
