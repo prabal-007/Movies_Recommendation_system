@@ -7,5 +7,4 @@ recommends items that present those aspects. In this case, we're going to try to
 
 #Dataset - Dataset is acquired from GroupLens.
 
-Download the dataset used in code from following URL - https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zip
-or https://tinyurl.com/y6matdgp
+Download the dataset used in code from following URL - https://tinyurl.com/y6matdgp
