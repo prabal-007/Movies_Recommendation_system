@@ -2,13 +2,8 @@
 # coding: utf-8
 
 # In[1]:
-
-
 # CONTENT-BASED FILTERING
-
-
 # In[2]:
-
 
 # importing libraries
 import pandas as pd
