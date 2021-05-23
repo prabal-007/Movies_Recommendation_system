@@ -117,7 +117,6 @@ userProfile = userGenreTable.transpose().dot(inputMovies['rating'])
 userProfile
 
 
-
 #genres of every movie in our original dataframe
 genreTable = moviesWithGenres_df.set_index(moviesWithGenres_df['movieId'])
 #drop the unnecessary information
