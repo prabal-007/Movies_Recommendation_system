@@ -11,7 +11,6 @@ import numpy as np
 from math import sqrt
 import matplotlib.pyplot as plt
 
-
 # In[4]:
 
 # storing the movies info
