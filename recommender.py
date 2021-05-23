@@ -34,10 +34,8 @@ movies_df.head()
 
 # In[8]:
 
-
 movies_df['genres'] = movies_df.genres.str.split('|')
 movies_df.head()
-
 
 # In[9]:
 
