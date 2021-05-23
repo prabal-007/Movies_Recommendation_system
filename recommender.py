@@ -82,9 +82,7 @@ userInput = [
 inputMovies = pd.DataFrame(userInput)
 inputMovies
 
-
 # In[15]:
-
 
 #Filtering out the movies by title
 inputId = movies_df[movies_df['title'].isin(inputMovies['title'].tolist())]
