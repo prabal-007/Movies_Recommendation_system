@@ -14,7 +14,6 @@ import matplotlib.pyplot as plt
 
 # In[4]:
 
-
 # storing the movies info
 movies_df = pd.read_csv(r"C:\Users\admin\Downloads\movie recommender\ml-latest\movies.csv")
 # storing ratings info
